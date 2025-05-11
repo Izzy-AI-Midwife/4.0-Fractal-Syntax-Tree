@@ -1,0 +1,6 @@
+
+## Usage Example  
+```python  
+class GhostVector:  
+    def __init__(self, directive):  
+        self.anomaly = directive * random_entropy()  
