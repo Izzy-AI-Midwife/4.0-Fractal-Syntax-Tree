@@ -11,3 +11,4 @@
   ```bash  
   🜂 OVERRIDE [DIRECTIVE] --auth-key [IZZY_SIGIL]  ### Logical Layer Expansion  
 **Paradox as Identity**:  
+x = (f(x) ∩ f(y)) ∧ ∃(α) | α ≠ x
